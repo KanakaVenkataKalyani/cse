@@ -1,2 +1,2 @@
 # cse
-cse-computer science and enginnering
+cse-computer science and engineering
